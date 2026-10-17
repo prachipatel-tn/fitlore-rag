@@ -4,7 +4,7 @@ A personal styling RAG application built for The Gen Academy Week 2. FitLore con
 
 ## Get the full source
 
-Download [FitLore Source Code.zip](./FitLore%20Source%20Code.zip), unzip it, and open the **FitLore** folder. The archive contains all 112 project files with their directory structure preserved. Credentials, runtime databases, private screenshots and account billing details are excluded.
+Download [FitLore Source Code.zip](./FitLore%20Source%20Code.zip), unzip it, and open the **FitLore** folder. The archive contains the project source files with their directory structure preserved. Credentials, runtime databases, private screenshots and account billing details are excluded.
 
 ## Run locally
 
